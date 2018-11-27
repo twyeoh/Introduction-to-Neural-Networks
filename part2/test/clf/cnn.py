@@ -1,8 +1,8 @@
 import numpy as np
 
-from cs294_129.layers import *
-from cs294_129.fast_layers import *
-from cs294_129.layer_utils import *
+from test.layers import *
+from test.fast_layers import *
+from test.layer_utils import *
 
 
 class ThreeLayerConvNet(object):
