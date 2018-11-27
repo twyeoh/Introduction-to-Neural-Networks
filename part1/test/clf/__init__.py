@@ -1,2 +1,2 @@
-from asgn1.classifiers.k_nearest_neighbor import *
-from asgn1.classifiers.linear_classifier import *
+from test.clf.k_nearest_neighbor import *
+from test.clf.linear_classifier import *
