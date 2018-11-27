@@ -3,7 +3,7 @@ try:
   from test.im2col_cython import col2im_cython, im2col_cython
   from test.im2col_cython import col2im_6d_cython
 except ImportError:
-  print 'run the following from the cs294_129 directory and try again:'
+  print 'run the following from the test directory and try again:'
   print 'python setup.py build_ext --inplace'
   print 'You may also need to restart your iPython kernel'
 
