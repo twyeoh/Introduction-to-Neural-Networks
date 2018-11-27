@@ -1,6 +1,6 @@
 import numpy as np
 
-from cs294_129 import optim
+from test import optim
 
 
 class Solver(object):
