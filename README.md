@@ -4,7 +4,7 @@ Materials for AIAP 2.0 #Week 4 of Intro to Neural Network
 
 In this assignment you will practice putting together a simple image classification pipeline, based on the different type of classifiers. The goals of this assignment are as follows:
 
-- understand the basic *Image Classification pipeline* and the data-driven approach (train/predict stages)
+- understand the basic **Image Classification pipeline** and the data-driven approach (train/predict stages)
 - understand the train/val/test splits and the use of validation data for hyperparameter tuning.
 - develop proficiency in writing efficient vectorized code with numpy
 - implement and apply a k-Nearest Neighbor (kNN) classifier
