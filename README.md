@@ -1,6 +1,6 @@
 # Welcome to week 4 Assignment
 
-Assignment materials for AIAP 2.0 #Week 4 of Intro to Neural Network. 
+Assignment materials for AIAP 2.0 #Week 4 of Intro to Neural Network. This week's assignment consists of two parts. 
 
 # Part 1 Description
 
